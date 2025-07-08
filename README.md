@@ -130,6 +130,8 @@ npm run dev
 - **bookings** - Booking records and transaction history
 - **seats** - Seat availability and booking status
 - **users** - User profiles and authentication data
+- ![image](https://github.com/user-attachments/assets/17c48593-924b-4690-83e8-35a79e3f6ba6)
+
 
 ## Security Features
 
