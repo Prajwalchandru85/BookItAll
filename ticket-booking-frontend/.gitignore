@@ -1,0 +1,58 @@
+###############################
+# Node / React / Vite
+###############################
+node_modules/
+dist/
+build/
+.temp/
+.cache/
+.vite/
+
+###############################
+# Logs
+###############################
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+###############################
+# Environment & Secrets
+###############################
+.env
+.env.*            # .env.development, .env.production, etc.
+firebase-debug.log
+.firebaserc
+firebase.json
+
+###############################
+# OS-specific junk
+###############################
+.DS_Store
+Thumbs.db
+
+###############################
+# IDE / Editor folders
+###############################
+.vscode/
+.idea/
+*.sw?
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.psess
+
+###############################
+# Testing & Coverage
+###############################
+coverage/
+*.lcov
+
+###############################
+# Miscellaneous
+###############################
+*.zip
+*.tar.gz
+*.tgz
+*.log
