@@ -1,4 +1,6 @@
-![brave_QX5pHUZdi4](https://github.com/user-attachments/assets/3e96ae71-ea61-44f4-822a-dd25462d71bf)# 🎪 BookItAll - Universal Entertainment Booking Platform
+# 🎪 BookItAll - Universal Entertainment Booking Platform
+
+![brave_QX5pHUZdi4](https://github.com/user-attachments/assets/3e96ae71-ea61-44f4-822a-dd25462d71bf)
 
 A comprehensive React-based entertainment booking application that allows users to book tickets for movies, live shows, concerts, sports events, amusement parks, and festivals with secure payment integration.
 
@@ -9,7 +11,9 @@ A comprehensive React-based entertainment booking application that allows users 
 - Secure login/logout functionality
 - Profile management
 Registeration page
+
 ![brave_E9sbjRBiVB](https://github.com/user-attachments/assets/0c1e4625-7c86-4628-b55e-0ea47aecc4e0)
+
 Login page
 
 ![brave_Dyv2Hhy56u](https://github.com/user-attachments/assets/68a221e9-6a90-4d29-ba39-9b030fcdad75)
@@ -23,7 +27,11 @@ Login page
 - Amusement Parks (Theme park passes)
 - Festivals & Exhibitions (Cultural events)
   Select category
+  
 ![brave_QX5pHUZdi4](https://github.com/user-attachments/assets/a5b0098d-5c50-4afd-bc40-71bc98e4b1e9)
+
+Sports
+
 ![image](https://github.com/user-attachments/assets/cb10d45f-9f9d-4cc0-832b-f5b1ee52ea8d)
 
 
@@ -34,6 +42,7 @@ Login page
 - Dynamic pricing based on seat type
 
   Book tickets
+  
 ![brave_Cnx2AHjhP2](https://github.com/user-attachments/assets/271a2938-38d7-43c6-9f1b-8d1ca0620d3d)
 
 Select seats(Shows booked and available seats)
@@ -52,6 +61,7 @@ Select seats(Shows booked and available seats)
 
 
 ![brave_di5MDFdtBQ](https://github.com/user-attachments/assets/8cef32ae-f700-4387-a91a-6d234c9bc37d)
+
 
 ![brave_fLxwUvMq75](https://github.com/user-attachments/assets/d631893c-4ae4-4eb5-a089-875804dfb26d)
 
