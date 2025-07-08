@@ -137,10 +137,10 @@ function MovieDetails({ user, onBooking }) {
 
       // Initialize Razorpay with test mode handling
       const options = {
-        key: '{RAZORPAY_KEY}', // Replace with your Razorpay key
+        key: 'ur_razorpay_key_here', // Replace with your Razorpay key
         amount: totalAmount * 100,
         currency: 'INR',
-        name: 'MovieDekho',
+        name: 'BookItAll',
         description: `${movie.title} - ${selectedSeats.length} seats`,
         image: movie.poster,
         handler: function (response) {

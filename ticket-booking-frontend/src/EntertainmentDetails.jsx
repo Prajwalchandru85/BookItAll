@@ -141,7 +141,7 @@ function EntertainmentDetails({ user, onBooking }) {
 
       // Initialize Razorpay with test mode handling
       const options = {
-        key: '{RAZORPAY_KEY}',
+        key: 'YOUR_RAZORPAY_KEY', // Replace with your Razorpay key
         amount: totalAmount * 100,
         currency: 'INR',
         name: 'Movie Dekho',

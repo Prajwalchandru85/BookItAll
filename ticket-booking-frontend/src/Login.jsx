@@ -167,7 +167,8 @@ function Login({ onLogin }) {
                     </Form>
                   </Tab>
 
-                  <Tab eventKey="register" title={<><i className="fas fa-user-plus me-2"></i>Register</>}>
+                  <Tab event
+                  ="register" title={<><i className="fas fa-user-plus me-2"></i>Register</>}>
                     <Form onSubmit={handleRegister}>
                       <Form.Group className="mb-3">
                         <Form.Label className="fw-semibold text-light">
