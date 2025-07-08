@@ -107,7 +107,7 @@ git clone https://github.com/Prajwalchandru85/BookItAll.git
 2. Install dependencies
 npm install
 
-3. Start the development server
+3. Start the development server-
 npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
