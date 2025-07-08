@@ -1,17 +1,19 @@
-# BookItAll - Universal Entertainment Booking Platform
+![brave_QX5pHUZdi4](https://github.com/user-attachments/assets/3e96ae71-ea61-44f4-822a-dd25462d71bf)# 🎪 BookItAll - Universal Entertainment Booking Platform
 
 A comprehensive React-based entertainment booking application that allows users to book tickets for movies, live shows, concerts, sports events, amusement parks, and festivals with secure payment integration.
 
 ## Features
 
-### User Authentication
-- User registration with email verification
+### 🔐 User Authentication
+- User registration 
 - Secure login/logout functionality
 - Profile management
+Registeration page
+![brave_E9sbjRBiVB](https://github.com/user-attachments/assets/0c1e4625-7c86-4628-b55e-0ea47aecc4e0)
+Login page
 
-<!-- Paste registration page screenshot here -->
+![brave_Dyv2Hhy56u](https://github.com/user-attachments/assets/68a221e9-6a90-4d29-ba39-9b030fcdad75)
 
-<!-- Paste login page screenshot here -->
 
 ### Entertainment Categories
 - Movies (Hindi & English)
@@ -20,8 +22,10 @@ A comprehensive React-based entertainment booking application that allows users 
 - Sports Events (Cricket, football)
 - Amusement Parks (Theme park passes)
 - Festivals & Exhibitions (Cultural events)
+  Select category
+![brave_QX5pHUZdi4](https://github.com/user-attachments/assets/a5b0098d-5c50-4afd-bc40-71bc98e4b1e9)
+![image](https://github.com/user-attachments/assets/cb10d45f-9f9d-4cc0-832b-f5b1ee52ea8d)
 
-<!-- Paste home page with categories screenshot here -->
 
 ### Booking System
 - Interactive seat selection with real-time availability
@@ -29,24 +33,36 @@ A comprehensive React-based entertainment booking application that allows users 
 - Show date and time selection
 - Dynamic pricing based on seat type
 
-<!-- Paste book now page screenshot here -->
+  Book tickets
+![brave_Cnx2AHjhP2](https://github.com/user-attachments/assets/271a2938-38d7-43c6-9f1b-8d1ca0620d3d)
 
-<!-- Paste seat selection page screenshot here -->
+Select seats(Shows booked and available seats)
+
+![brave_n3E6NoZqIj](https://github.com/user-attachments/assets/6b11e3f3-1a2d-48cf-9a46-2022948269fd)
+
+
 
 ### Payment Integration
 - Secure payment processing with Razorpay
 - Test payment simulation
 - Payment verification and confirmation
 - Digital receipt generation
+  
+![brave_XOmkyulatN](https://github.com/user-attachments/assets/983a1148-c9a0-4e01-8bda-a40d68074805)
 
-<!-- Paste payment page screenshot here -->
 
-<!-- Paste payment successful page screenshot here -->
+![brave_di5MDFdtBQ](https://github.com/user-attachments/assets/8cef32ae-f700-4387-a91a-6d234c9bc37d)
+
+![brave_fLxwUvMq75](https://github.com/user-attachments/assets/d631893c-4ae4-4eb5-a089-875804dfb26d)
+
 
 ### User Dashboard
 - Complete booking history
 - Booking management
 - Receipt viewing
+
+   ![brave_M9ex8wc2zw](https://github.com/user-attachments/assets/9dcfcc98-b145-4fcb-bca1-8baa2056f736)
+
 
 ## Technology Stack
 
